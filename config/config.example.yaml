@@ -1,0 +1,5 @@
+# Documentation template; scripts use environment variables, not YAML.
+ODKD_WORK_ROOT: ./work
+NHANES_ROOT: ./data/nhanes
+WANBEI_RAW_ROOT: ./data/wanbei_authorized
+ODKD_FIGURE_ROOT: ./work/figures
